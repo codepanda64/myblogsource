@@ -1,0 +1,19 @@
+# Header
+menu:
+  ## If your site is put in a subdirectory, set Home as '/child/'
+  Home: /
+  Archives: archives
+
+social:
+  email: 17920082@qq.com
+  twitter:
+  weibo: fatmonkey64@sina.cn
+  github: 
+  googleplus:
+  rss: /atom.xml
+
+# Content
+fancybox: true # set to true if you want to use it
+
+duoshuo: condepanda123 #duoshuo_shortname
+disqus: #disqus _shortname
