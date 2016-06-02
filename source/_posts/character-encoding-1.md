@@ -1,4 +1,5 @@
 ---
+<<<<<<< bb308a3d9d431054ac5933ce2c9e5a637ab7fb46
 title: 字符编码简介（1）
 tags:
   - 字符编码
@@ -8,6 +9,17 @@ category:
   - 基础理论
 date: 2012-11-03 15:35:00
 categories:
+=======
+title: 字符编码简介(1)
+tags:
+  - 字符编码
+categories:
+  - 编程基础理论
+comments: true
+updated: '2016-05-31 20:31'
+date: 2012-11-03 15:35:00
+permalink: character-encoding-1
+>>>>>>> up 20160602
 ---
 
 
@@ -94,5 +106,9 @@ UTF-8编码是根据第一字节的高位来决定一个字符占几个字节的
 | 111111         | 6个字节      |
 
 
+<<<<<<< bb308a3d9d431054ac5933ce2c9e5a637ab7fb46
 下一篇将介绍乱码形成的原因，及预防的方法。
+=======
+{% post_link character-encoding-2 "字符编码简介(2)" %})将介绍乱码形成的原因，及预防的方法。
+>>>>>>> up 20160602
 
