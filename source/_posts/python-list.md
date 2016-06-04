@@ -2,8 +2,12 @@
 title: Python基础——list详解
 date: 2014-07-20 21:15
 updated: 2016-05-18 00:53
-tags: Python基础
-categories: Python
+tags: 
+ - Python基础
+ - Python
+ - list
+categories: 
+ - Python
 comments: true
 ---
 
