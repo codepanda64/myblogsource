@@ -138,7 +138,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-avatar: http://i4.buimg.com/e10b67b82ba86015.jpg
+avatar: /images/avtar.jpg
 
 
 # Table Of Contents in the Sidebar
